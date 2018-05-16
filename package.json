@@ -1,0 +1,14 @@
+{
+  "name": "language-botmasher-grammar",
+  "version": "0.0.0",
+  "description": "A demo grammar following the steps in the Flight Manual",
+  "keywords": [
+    "language",
+    "grammar"
+  ],
+  "repository": "https://github.com/atom/language-botmasher-grammar",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
